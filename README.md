@@ -51,9 +51,9 @@ SCENE 1 : TELEVISION ROOM
    - She return to her chair keeping the TV remote with her
    - Giraffe gets an idea to decide who will watch the television
    
-![Giraffe watching TV when Rabbit walks in](Image1.png)
+![Giraffe watching TV when Rabbit walks in](Picture1.png)
 
-![Giraffe gets idea of Stone, Paper, Scissors after the fight for TV](Image2.png)
+![Giraffe gets idea of Stone, Paper, Scissors after the fight for TV](Picture2.png)
    
 SCENE 2: GAME SCENE
 ---
@@ -74,7 +74,7 @@ SCENE 2: GAME SCENE
       - Giraffe puts down a stone
       - Rabbit also put down a stone simultaneously
 
-![Both of them playing the game](Image3.png)
+![Both of them playing the game](Picture3.png)
 
 SCENE 3: TV ROOM SCENE
 ---
@@ -89,9 +89,9 @@ SCENE 3: TV ROOM SCENE
    - But light goes off immediately.
    - Giraffe laughs.
 
-![Rabbit wins the game](Image4.png)
+![Rabbit wins the game](Picture4.png)
 
-![Light goes off](Image5.png)
+![Light goes off](Picture5.png)
 
 
 (The characters and story is inspired from the Award Winning Animated Short Film - Rabbit and Deer)
